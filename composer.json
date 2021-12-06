@@ -1,0 +1,17 @@
+{
+    "name": "dqg/wechatwx",
+    "description": "wxwechat",
+    "type": "library",
+    "authors": [
+        {
+            "name": "houzhanzhan",
+            "email": "houzhan@daqiangui.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "addons\\": "addons/"
+        }
+      }
+}
