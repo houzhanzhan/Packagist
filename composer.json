@@ -1,13 +1,13 @@
 {
     "name": "dqg/wechat",
-    "description": "sdk",
+    "description": "dqg-sdk",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Dqg\\Wechat\\": "src/"
         }
     },
-    "license": "MIT",
     "authors": [
         {
             "name": "houzhanzhan",
