@@ -1,6 +1,6 @@
 {
     "name": "dqg/wechat",
-    "description": "wechat-sdk",
+    "description": "sdk",
     "type": "library",
     "autoload": {
         "psr-4": {
