@@ -6,7 +6,7 @@
  * @copyright Copyright (c) 1998-2014 Tencent Inc.
  */
 
-namespace addons\workwx\library\src\Callback;
+namespace Dqg\Wechat\src\workwx\Callback;
 
 class WXBizMsgCrypt
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace addons\workwx\library\src\Api\Struct\Tag;
+namespace Dqg\Wechat\src\workwx\Api\Struct\Tag;
 
 use addons\workwx\library\src\Utils\Error\ParameterError;
 use addons\workwx\library\src\Utils\Error\QyApiError;

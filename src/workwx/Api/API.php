@@ -1,6 +1,6 @@
 <?php
 
-namespace addons\workwx\library\src\Api;
+namespace Dqg\Wechat\src\workwx\Api;
 
 use addons\workwx\library\src\Utils\Error\HttpError;
 use addons\workwx\library\src\Utils\HttpUtils;

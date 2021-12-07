@@ -1,6 +1,6 @@
 <?php
 
-namespace addons\workwx\library\src\Api\Struct;
+namespace Dqg\Wechat\src\workwx\Api\Struct;
 
 class Redis
 {

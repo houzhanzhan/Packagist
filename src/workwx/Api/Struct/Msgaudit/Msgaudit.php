@@ -1,6 +1,6 @@
 <?php
 
-
+namespace Dqg\Wechat\src\workwx\Api\Struct\Msgaudit;
 class Msgaudit
 {
 

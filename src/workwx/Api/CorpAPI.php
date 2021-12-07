@@ -9,7 +9,7 @@
  * @Date 2017-12-26
  */
 
-namespace addons\workwx\library\src\Api;
+namespace Dqg\Wechat\src\workwx\Api;
 
 use think\Cache;
 use addons\workwx\library\src\Api\Struct\Agent;

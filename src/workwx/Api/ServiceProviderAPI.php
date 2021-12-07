@@ -10,7 +10,7 @@
  *
  */
 
-namespace addons\workwx\library\src\Api;
+namespace Dqg\Wechat\src\workwx\Api;
 
 use addons\workwx\library\src\Api\Struct\ServiceProvider\GetLoginInfoRsp;
 use addons\workwx\library\src\Api\Struct\ServiceProvider\GetRegisterCodeReq;

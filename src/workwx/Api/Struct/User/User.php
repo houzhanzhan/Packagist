@@ -1,6 +1,6 @@
 <?php
 
-namespace addons\workwx\library\src\Api\Struct\User;
+namespace Dqg\Wechat\src\workwx\Api\Struct\User;
 
 use addons\workwx\library\src\Utils\Error\ParameterError;
 use addons\workwx\library\src\Utils\Error\QyApiError;

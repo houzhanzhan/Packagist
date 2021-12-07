@@ -1,6 +1,6 @@
 <?php
 
-namespace addons\workwx\library\src\Api\Struct\Tag;
+namespace Dqg\Wechat\src\workwx\Api\Struct\Tag;
 
 class TagUser
 {

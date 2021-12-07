@@ -1,6 +1,6 @@
 <?php
 
-namespace addons\workwx\library\src\Api\Struct\ServiceProvider;
+namespace Dqg\Wechat\src\workwx\Api\Struct\ServiceProvider;
 
 use addons\workwx\library\src\Utils\Utils;
 

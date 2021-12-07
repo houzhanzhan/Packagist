@@ -1,6 +1,6 @@
 <?php
 
-namespace addons\workwx\library\src\Callback;
+namespace Dqg\Wechat\src\workwx\Callback;
 
 /**
  * XMLParse class
