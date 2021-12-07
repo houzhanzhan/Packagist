@@ -1,17 +1,18 @@
 {
-    "name": "dqg/wechatwx",
-    "description": "wxwechat",
+    "name": "dqg/wechat",
+    "description": "wechat-sdk",
     "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dqg\\Wechat\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "houzhanzhan",
             "email": "houzhan@daqiangui.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-          "addons\\": "addons/"
-        }
-      }
+    "minimum-stability": "dev",
+    "require": {}
 }
